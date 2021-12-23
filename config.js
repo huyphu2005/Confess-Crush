@@ -1,20 +1,20 @@
 const CONFIG = {
-    titleWeb: "boss có đẹp trai ko ",
-    introTitle: 'boss có đẹp trai ko',
+    titleWeb: "yêu mình không",
+    introTitle: 'yêu em',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
     Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^hehe^^',
-    title: 'trùm box ADG',
-    desc: ':))',
-    btnYes: 'đẹp vãi lon',
-    btnNo: 'đéo',
-    question: 'hehe ',
+    btnIntro: '^^HiHi^^',
+    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
+    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
+    btnYes: 'Thích lắm <33',
+    btnNo: 'Không nha :3',
+    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
     btnReply: 'Gửi cho bạn <3',
-    reply: 'hehe',
-    mess: 'bos biết mà 🥰. boss tự hào vcl',
-    messDesc: 'cho boss 10k nha',
+    reply: 'em cũng yêu anh lắm  <33333333',
+    mess: 'anh biết mà 🥰. anh yêu nhiều nhiều 😘😘',
+    messDesc: 'cho mình hum má cái nhoa <3',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.facebook.com/huyphugaming' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
